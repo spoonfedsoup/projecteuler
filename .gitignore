@@ -18,6 +18,8 @@ $RECYCLE.BIN/
 *.lnk
 
 #Directories
+/.gitignore
+/.gitattributes
 .idea/
 
 # =========================
