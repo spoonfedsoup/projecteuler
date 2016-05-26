@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	min := 100*100
+	min := 100*100 
 	max := 999*999
 	var fac1, fac2 int //declares fac1 and fac2 as ints
 
