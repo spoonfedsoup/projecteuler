@@ -18,8 +18,6 @@ $RECYCLE.BIN/
 *.lnk
 
 #Directories
-/.gitignore
-/.gitattributes
 .idea/
 
 # =========================
@@ -50,4 +48,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-/test.go
+
+#files to ignore
+test.go
+.gitignore
+.gitattributes
